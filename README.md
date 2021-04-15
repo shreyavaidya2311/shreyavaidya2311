@@ -1,6 +1,6 @@
 ### Hi, I'm Shreya Vaidya👋
 
-<a href="https://www.linkedin.com/in/shreya-vaidya-5a976619a/">
+<a href="https://www.linkedin.com/in/shreya-vaidya/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />  
 </a>
 <a href="mailto:shreyakvaidya@gmail.com">
