@@ -11,7 +11,7 @@
 </a>
 <br/> <br/>
 
-- :mortar_board: I'm a sophomore studying Computer Science at <a href="https://www.coep.org.in/"> College of Engineering, Pune</a>. 
+- :mortar_board: I'm a Pre-Final Year student studying Computer Science at <a href="https://www.coep.org.in/"> College of Engineering, Pune</a>. 
 - 🌱 I’m interested in Full Stack Development and DevOps.
 - :computer: I’m currently learning TypeScript and PostgreSQL.
 - ⚡ Fun fact: I'm an Adrenaline Junkie and absolutely love Bungee Jumping.
