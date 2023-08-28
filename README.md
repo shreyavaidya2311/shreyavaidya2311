@@ -11,7 +11,7 @@
 </a>
 <br/> <br/>
 
-- :mortar_board: I'm a Final Year student studying Computer Science at <a href="https://www.coep.org.in/"> College of Engineering, Pune</a>. 
+- :mortar_board: I'm a Graduate student studying Computer Science at NC State University. 
 - 🌱 I’m interested in Full Stack Development and DevOps.
 - :computer: I’m currently exploring the field of Human Computer Interaction and Interactive Intelligence.
 
